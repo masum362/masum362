@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum362&label=Profile%20views&color=0e75b6&style=flat" alt="masum362" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum362" alt="masum362" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **masumahmed64077@gmail.com**
