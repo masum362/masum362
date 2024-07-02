@@ -1,3 +1,9 @@
+
+<p align=”center”>
+
+<img width="200" height="200" src="./Black and Teal Modern Hackathon Banner Landscape.png" alt="my banner">
+
+</p>
 <h1 align="center">Hi 👋, I'm Md. Masum Ahmed</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3
 <h3 align="center"><a href="https://masum362-portfolio.netlify.app/" target="_blank" align="center" rel="noreferrer" >Portfolio</a></h3>
