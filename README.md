@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum362&label=Profile%20views&color=0e75b6&style=flat" alt="masum362" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
 - 📫 How to reach me **masumahmed64077@gmail.com**
 
 - ⚡ Fun fact **I am Passionate about learning**
