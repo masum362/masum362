@@ -3,9 +3,9 @@
 <img height='auto' width='100%' src="./Black and Teal Modern Hackathon Banner Landscape.png" alt="my banner">
 
 </p>
-<h1 align="center">Hi 👋, I'm Md. Masum Ahmed</h1>
-<p align="center">a dynamic and enthusiastic individual currently based in the vibrant country of Bangladesh. I am passionate about technology and thrive on building innovative solutions. As a skilled Full Stack Web Developer, I enjoy bringing ideas to life through coding and design. Excited to contribute to the world of technology and make a positive impact.</p>
-<h3 align="center"><a href="https://masum362-portfolio.netlify.app/" target="_blank" align="center" rel="noreferrer" >Portfolio</a></h3>
+<h1>Hi 👋, I'm Md. Masum Ahmed</h1>
+<p>a dynamic and enthusiastic individual currently based in the vibrant country of Bangladesh. I am passionate about technology and thrive on building innovative solutions. As a skilled Full Stack Web Developer, I enjoy bringing ideas to life through coding and design. Excited to contribute to the world of technology and make a positive impact.</p>
+<h3><a href="https://masum362-portfolio.netlify.app/" target="_blank" rel="noreferrer" >Portfolio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum362&label=Profile%20views&color=0e75b6&style=flat" alt="masum362" /> </p>
 
