@@ -1,31 +1,228 @@
-<p align=”center”>
+<div align="center">
 
+# 👋 Hi, I'm Md. Masum Ahmed
 
-</p>
-<h1>Hi 👋, I'm Md. Masum Ahmed</h1>
-<p>a dynamic and enthusiastic individual currently based in the vibrant country of Bangladesh. I am passionate about technology and thrive on building innovative solutions. As a skilled Full Stack Web Developer, I enjoy bringing ideas to life through coding and design. Excited to contribute to the world of technology and make a positive impact.</p>
-<h3><a href="https://masum362-portfolio.netlify.app/" target="_blank" rel="noreferrer" >Portfolio</a></h3>
+### Full Stack Web Developer · React & Next.js Developer · Instructor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masum362&label=Profile%20views&color=0e75b6&style=flat" alt="masum362" /> </p>
-
-- 📫 How to reach me **masumahmed64077@gmail.com**
-
-- ⚡ Fun fact **I am Passionate about learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/masum_ahmed_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masum_ahmed_123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-masum-ahmed-a548471a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-masum-ahmed-a548471a6" height="30" width="40" /></a>
-<a href="https://fb.com/md.masum.ahmed.mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.masum.ahmed.mk" height="30" width="40" /></a>
-<a href="https://www.behance.net/masumahmedlotib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="masumahmedlotib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/happyending360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="happyending360" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/masum362">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/masum362/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:masumahmed64077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://masum362-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum362&show_icons=true&locale=en&layout=compact" alt="masum362" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum362&show_icons=true&locale=en" alt="masum362" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum362&" alt="masum362" /></p>
+I'm a **Full Stack Web Developer and Instructor** from Bangladesh, passionate about turning ideas into practical, scalable, and user-friendly applications.
+
+I enjoy working across the full development lifecycle — from designing responsive interfaces to building REST APIs, authentication systems, databases, dashboards, and production deployments.
+
+I also teach web development and mentor students by helping them move from learning individual technologies to building **real-world full-stack projects**.
+
+- 💻 Full Stack Web Developer / Instructor at **Mastrus IT**
+- ⚛️ Strong focus on **React.js, Next.js & TypeScript**
+- 🛠️ Frontend + backend development
+- 🗄️ PostgreSQL, Prisma, MongoDB & REST APIs
+- 👨‍🏫 Web development instructor and mentor
+- 🧾 Interested in POS, SaaS and business management systems
+- 🌱 Currently exploring **Next.js, React 19, advanced TypeScript and modern full-stack architecture**
+- 📍 Bangladesh
+- 📫 **[Email me](mailto:masumahmed64077@gmail.com)**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend technologies">
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend and database technologies">
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,vercel" alt="Development tools">
+</p>
+
+---
+
+## 💡 What I Build
+
+- 🌐 Modern responsive web applications
+- ⚛️ React & Next.js applications
+- 🔐 Authentication & authorization systems
+- 🔌 REST APIs
+- 🏢 Business management applications
+- 🧾 POS & inventory management systems
+- 📊 Admin dashboards
+- 🗄️ Database-driven applications
+- 🚀 Full-stack SaaS applications
+- 👨‍🏫 Educational projects and learning platforms
+
+---
+
+## ⭐ Featured Projects
+
+### 🧠 MindLinker — Social Media Platform
+
+A social media application with authentication, profiles, feeds and social interactions.
+
+**Highlights:**
+
+- 🔐 Authentication & forgot-password flow
+- 👤 Profile management and profile photo upload
+- 📰 Social feed
+- 🤝 Friend system
+- 💬 Comments & replies
+- 🔔 Notifications
+- 👀 Profile visit tracking
+
+**Tech:** React · Node.js · Express.js · MongoDB · REST API
+
+🔗 **[Live Demo](https://mindlinker.netlify.app/)** · **[GitHub Repository](https://github.com/masum362/MINDLINKER_social_media)**
+
+---
+
+### 📚 AcademyCloud — Your Library
+
+A React-based library project built as part of my portfolio and full-stack learning journey.
+
+**Tech:** React · JavaScript · Tailwind CSS
+
+🔗 **[GitHub Repository](https://github.com/masum362/academyCloud)**
+
+---
+
+### 🧾 POS & Business Management System
+
+A full-stack business management solution designed for shops and small businesses.
+
+**Modules include:**
+
+- 🛒 Sales & invoices
+- 📦 Products & inventory
+- 👥 Customers
+- 🚚 Suppliers
+- 👨‍💼 Employees & permissions
+- 💰 Due management & collections
+- 📒 Accounting
+- 📊 Dashboard & reports
+- 🏪 Multi-shop management
+
+The project focuses on **REST API architecture, authentication, database relationships, business rules and scalable backend design**.
+
+---
+
+## 👨‍🏫 Teaching & Mentoring
+
+I enjoy helping students understand not only **how to write code**, but also **how real applications are planned, structured and deployed**.
+
+### Topics I Teach
+
+```text
+JavaScript
+    ↓
+React.js
+    ↓
+TypeScript
+    ↓
+Next.js
+    ↓
+Node.js + Express.js
+    ↓
+PostgreSQL / MongoDB
+    ↓
+Prisma
+    ↓
+REST API + Authentication
+    ↓
+Git & GitHub
+    ↓
+Deployment & Full-Stack Projects
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=masum362&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Masum's GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum362&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=masum362&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🎯 Currently Learning & Exploring
+
+- ⚡ Next.js
+- ⚛️ React 19
+- 🔷 Advanced TypeScript
+- 🐘 PostgreSQL & Prisma
+- 🔐 Modern authentication & authorization
+- 🧪 Vitest & Playwright
+- ⚙️ GitHub Actions & CI/CD
+- 🚀 VPS deployment
+- 🏗️ Full-stack application architecture
+- 🤖 AI-powered applications
+
+---
+
+## 🧩 Development Philosophy
+
+> **Learn → Build → Teach → Improve**
+
+I believe the best way to become a better developer is to continuously learn, build real projects, solve real problems, share knowledge, and improve through experience.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Have a project, collaboration idea, or development opportunity?**
+
+<a href="https://masum362-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/masum362/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:masumahmed64077@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+</div>
