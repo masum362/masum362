@@ -1,6 +1,5 @@
 <p align=”center”>
 
-<img height='auto' width='100%' src="./Black and Teal Modern Hackathon Banner Landscape.png" alt="my banner">
 
 </p>
 <h1>Hi 👋, I'm Md. Masum Ahmed</h1>
