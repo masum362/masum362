@@ -178,22 +178,6 @@ Deployment & Full-Stack Projects
 
 </div>
 
----
-
-## 🎯 Currently Learning & Exploring
-
-- ⚡ Next.js
-- ⚛️ React 19
-- 🔷 Advanced TypeScript
-- 🐘 PostgreSQL & Prisma
-- 🔐 Modern authentication & authorization
-- 🧪 Vitest & Playwright
-- ⚙️ GitHub Actions & CI/CD
-- 🚀 VPS deployment
-- 🏗️ Full-stack application architecture
-- 🤖 AI-powered applications
-
----
 
 ## 🧩 Development Philosophy
 
